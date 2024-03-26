@@ -1,5 +1,4 @@
 type: framework
-custom_name: Duck shop
 content:
   - duckShopServerIntroduction
   - duckShopServerHowToRun
@@ -19,4 +18,4 @@ content:
   - duckShopServerSortFunction
   - duckShopServerImprovments
 is_template_based: false
-current_task: 16
+current_task: 15
